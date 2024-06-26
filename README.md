@@ -1,6 +1,6 @@
 1. Importing Libraries:
 
-pandas (pd): Used for data manipulation (reading CSV, creating DataFrames)
+pandas (pd):Used for data manipulation (reading CSV, creating DataFrames)
 numpy (np): Used for numerical computations (not explicitly used here)
 sklearn.preprocessing.LabelEncoder: Converts text labels ("spam", "ham") to numbers for machine learning models
 matplotlib.pyplot (plt): Used for data visualization (pie charts, histograms)
