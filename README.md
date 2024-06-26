@@ -1,17 +1,29 @@
 1. Importing Libraries:
 
 pandas (pd):Used for data manipulation (reading CSV, creating DataFrames)
+
 numpy (np): Used for numerical computations (not explicitly used here)
+
 sklearn.preprocessing.LabelEncoder: Converts text labels ("spam", "ham") to numbers for machine learning models
+
 matplotlib.pyplot (plt): Used for data visualization (pie charts, histograms)
+
 nltk: Used for Natural Language Processing (text tokenization, sentence segmentation)
+
 seaborn (sns): Advanced data visualization library built on top of matplotlib
+
 wordcloud: Creates word clouds to visualize word frequency
+
 collections.Counter: Counts occurrences of elements in a collection
+
 sklearn.feature_extraction.text: Feature extraction from text data (CountVectorizer, TfidfVectorizer)
+
 sklearn.model_selection: Train-test split for model evaluation
+
 sklearn.naive_bayes: Implements Naive Bayes classification algorithms
+
 sklearn.metrics: Provides metrics for model evaluation (accuracy, confusion matrix, precision)
+
 pickle: Saves Python objects (models and vectorizer) for later use
 
 2. Data Loading and Preprocessing:
